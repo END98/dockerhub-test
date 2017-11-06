@@ -1,4 +1,3 @@
-$ cat Dockerfile
 # どのイメージを使うか
 FROM centos:6.7
  
